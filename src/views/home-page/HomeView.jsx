@@ -123,7 +123,7 @@ const HomeView = ({ categories, best, handleNavigateDetail, blogs, handleNavigat
           ))}
         </div>
       </div>
-      <a href='./blog' className='button button--primary mx-auto block'>VIEW ALL</a>
+      <a href='../blog' className='button button--primary mx-auto block'>VIEW ALL</a>
     </div>
   </section>
     </main>
